@@ -1,0 +1,9 @@
+/*Selector{
+  Property: value;
+}*/
+
+h1{ color:rgb(212,176,176);font-family:'Righteous'}
+ul, li{color:rgb(255,170,170);font-family:'Righteous'}
+a{color:rgb(212,176,176);font-family:'Righteous'
+}
+body{background-color:rgb(170,57,57);
